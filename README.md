@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-Hello World !
-=======
-Hello Europe !
->>>>>>> Stashed changes
+Hello Europe and Morth America
 
 This is more content.
 
