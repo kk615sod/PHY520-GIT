@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 Hello World !
+=======
+Hello Europe !
+>>>>>>> Stashed changes
 
 This is more content.
 
-Don't panic.
+Do panic.
